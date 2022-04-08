@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elliza-Nikki
 - 👀 I’m interested in Computer and Science
-- 🌱 I’m currently learning C and Python + Physics and Mat
+- 🌱 I’m currently learning C and Python + Physics and Math
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ellizanikki@gmail.com
 
